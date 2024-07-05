@@ -6,17 +6,12 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "我的音乐",
+    "link": "https://music.163.com/#/user/home?id=403080863"
   },
   {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://home.staylx.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
   }
 ]
